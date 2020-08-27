@@ -1,0 +1,25 @@
+{
+    "id": "75CC16C4",
+    "path": "~/Desktop/test/test.R",
+    "project_path": "test.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1598561936954.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "16,36",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1598561966,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1598561968964,
+    "read_only": false,
+    "read_only_alternatives": []
+}
